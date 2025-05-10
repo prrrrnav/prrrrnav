@@ -1,66 +1,60 @@
-<h1 align="center">Hi 👋, I'm Pranav Tiwari</h1>
-<h3 align="center">🚀 Aspiring Software Developer | MERN Stack Enthusiast | Business-Minded Techie</h3>
+<h1 align="center">Pranav Tiwari 👋</h1>
+<h3 align="center">🚀 Aspiring Software Developer | MERN Stack Expertise | Driven by Innovation & Impact</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer+%F0%9F%92%BB;Tech+Explorer+%F0%9F%9A%80;Future+Entrepreneur+%F0%9F%92%B8;Football+Lover+%F0%9F%8F%88+Music+Junkie+%F0%9F%8E%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer+%F0%9F%92%BB;MERN+Stack+Proficient+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%B8;Eager+to+Learn+%F0%9F%A7%AE;Team+Player+%F0%9F%AA%B1" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🎯 Summary
 
-- 🎓 MCA student at **Presidency University, Bangalore**
-- 🌐 I work with **MERN Stack** and love building impactful software
-- 🧠 Currently exploring **React Native**, **Docker**, and **AI integrations**
-- 🛠 Working on projects like **Nammasuraksha** (Public Safety App) & **ATS Resume Analyzer**
-- ⚽ When not coding, you'll find me playing football or traveling
+Highly motivated and quick-learning MCA student at **Presidency University, Bangalore**, with a strong foundation in the **MERN stack** and a passion for developing impactful software solutions. Actively exploring cutting-edge technologies like **React Native**, **Docker**, and **AI integrations**. Proven ability to contribute to real-world projects, as demonstrated by **Nammasuraksha** (Public Safety App) and the **ATS Resume Analyzer**. Eager to contribute technical skills and a business-oriented mindset to a dynamic team.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
-![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+**Proficient In:** JavaScript, Node.js, React, MongoDB, Express.js, Git, GitHub
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
-![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)  
-![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+**Exploring:** React Native, PostgreSQL, Docker, VS Code, Render, AI Integrations
+
+---
+
+### 💼 Projects
+
+- **Nammasuraksha (Public Safety App):** Developed using **React Native** for a cross-platform user interface and **Node.js/Express.js** for the backend API. Focused on enabling real-time incident reporting, location sharing, and emergency contact features to enhance community safety.
+- **ATS Resume Analyzer:** Designed and implemented with the **MERN stack**. This tool aims to streamline the resume screening process for recruiters by parsing resume content and identifying key skills and qualifications based on job descriptions.
+
+---
+
+### 💡 Key Attributes
+
+- **Problem-Solving:** Adept at identifying challenges and leveraging technology to create effective solutions.
+- **Continuous Learning:** Demonstrated commitment to staying current with the latest technologies and expanding skill sets.
+- **Collaboration & Teamwork:** Enthusiastic about contributing to team efforts and sharing knowledge.
+- **Business Acumen:** Possesses an understanding of how technology can drive business value and innovation.
+- **Proactive & Driven:** Highly motivated to learn, build, and contribute meaningfully to projects.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prrrrnav&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=prrrrnav&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prrrrnav&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=prrrrnav&theme=radical&hide_border=false" alt="Pranav's GitHub Streak" />
 </p>
 
 ---
 
-### 🧩 Fun Facts
+### 🔗 Connect
 
-- 💡 I love solving real-world problems through tech
-- 📚 I'm a fast learner and love collaborating on startup ideas
-- 📈 I'm on a mission to learn, build, scale, and succeed
-- 🌍 I'm from **Lucknow, India** 🇮🇳
-
----
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-t-50b46b219)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/prranavs)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]((https://x.com/PranavTiwa97205))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-t-50b46b219)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prrrrnav)
 [![Mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:d.officialpranav@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]((https://x.com/PranavTiwa97205))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/prranavs)
 
 ---
 
+📍 Based in **Rajanukunte, Karnataka (Currently)** | Originally from **Lucknow, India** 🇮🇳
