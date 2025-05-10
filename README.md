@@ -57,4 +57,4 @@ Highly motivated and quick-learning MCA student at **Presidency University, Bang
 
 ---
 
-📍 Based in **Rajanukunte, Karnataka (Currently)** | Originally from **Lucknow, India** 🇮🇳
+📍 Based in **Bangalore, Karnataka (Currently)** | Originally from **Lucknow, India** 🇮🇳
