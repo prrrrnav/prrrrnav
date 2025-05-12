@@ -43,7 +43,6 @@ Highly motivated and quick-learning MCA student at **Presidency University, Bang
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prrrrnav&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=prrrrnav&theme=radical&hide_border=false" alt="Pranav's GitHub Streak" />
-  <img src="https://streak-stats.demolab.com?user=prrrrnav&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
 ---
