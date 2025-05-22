@@ -9,7 +9,7 @@
 
 ### 🎯 Summary
 
-Highly motivated and quick-learning MCA student at **Presidency University, Bangalore**, with a strong foundation in the **MERN stack** and a passion for developing impactful software solutions. Actively exploring cutting-edge technologies like **React Native**, **Docker**, and **AI integrations**. Proven ability to contribute to real-world projects, as demonstrated by **Nammasuraksha** (Public Safety App) and the **ATS Resume Analyzer**. Eager to contribute technical skills and a business-oriented mindset to a dynamic team.
+Highly motivated and quick-learning student at **Presidency University, Bangalore**, with a strong foundation in the **MERN stack** and a passion for developing impactful software solutions. Actively exploring cutting-edge technologies like **React Native**, **Docker**, and **AI integrations**. Proven ability to contribute to real-world projects, as demonstrated by **Nammasuraksha** (Public Safety App) and the **ATS Resume Analyzer**. Eager to contribute technical skills and a business-oriented mindset to a dynamic team.
 
 ---
 
