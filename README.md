@@ -1,61 +1,87 @@
-<h1 align="center">Pranav Tiwari 👋</h1>
-<h3 align="center">🚀 Aspiring Software Developer | MERN Stack Expertise | Driven by Innovation & Impact</h3>
+# Hi, I’m Pranav 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer+%F0%9F%92%BB;MERN+Stack+Proficient+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%B8;Eager+to+Learn+%F0%9F%A7%AE;Team+Player+%F0%9F%AA%B1" alt="Typing SVG" />
-</p>
+Backend-focused software developer with a strong interest in building **reliable, scalable, and well-structured backend systems**. I enjoy working close to system fundamentals—APIs, databases, asynchronous processing, and service reliability—rather than just surface-level features.
 
----
-
-### 🎯 Summary
-
-Highly motivated and quick-learning student at **Presidency University, Bangalore**, with a strong foundation in the **MERN stack** and a passion for developing impactful software solutions. Actively exploring cutting-edge technologies like **React Native**, **Docker**, and **AI integrations**. Proven ability to contribute to real-world projects, as demonstrated by **Nammasuraksha** (Public Safety App) and the **ATS Resume Analyzer**. Eager to contribute technical skills and a business-oriented mindset to a dynamic team.
+I’m currently pursuing a **Master of Computer Applications (MCA)** and actively preparing for **backend / software engineering roles** where I can grow by working on real-world systems.
 
 ---
 
-### 🛠️ Technical Skills
-
-**Proficient In:** JavaScript, Node.js, React, MongoDB, Express.js, Git, GitHub
-
-**Exploring:** React Native, PostgreSQL, Docker, VS Code, Render, AI Integrations
-
----
-
-### 💼 Projects
-
-- **Nammasuraksha (Public Safety App):** Developed using **React Native** for a cross-platform user interface and **Node.js/Express.js** for the backend API. Focused on enabling real-time incident reporting, location sharing, and emergency contact features to enhance community safety.
-- **ATS Resume Analyzer:** Designed and implemented with the **MERN stack**. This tool aims to streamline the resume screening process for recruiters by parsing resume content and identifying key skills and qualifications based on job descriptions.
+## 🧠 What I Care About
+- Designing **correct and maintainable backend services**
+- Understanding **how systems behave under load and failure**
+- Writing code that is easy to reason about and operate
+- Learning new stacks by mapping them to core engineering fundamentals
 
 ---
 
-### 💡 Key Attributes
+## 🔧 Tech I Work With
 
-- **Problem-Solving:** Adept at identifying challenges and leveraging technology to create effective solutions.
-- **Continuous Learning:** Demonstrated commitment to staying current with the latest technologies and expanding skill sets.
-- **Collaboration & Teamwork:** Enthusiastic about contributing to team efforts and sharing knowledge.
-- **Business Acumen:** Possesses an understanding of how technology can drive business value and innovation.
-- **Proactive & Driven:** Highly motivated to learn, build, and contribute meaningfully to projects.
+**Languages**
+- Go, JavaScript, Java
 
----
+**Backend & Distributed Systems**
+- REST APIs, gRPC
+- Event-driven architectures (Kafka)
+- Asynchronous job processing
+- Service decomposition & fault isolation
 
-### 📈 GitHub Stats
+**Databases & Caching**
+- PostgreSQL (schema design, indexing, transactions)
+- Redis (rate limiting, caching, fast lookups)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prrrrnav&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=prrrrnav&theme=radical&hide_border=false" alt="Pranav's GitHub Streak" />
-</p>
+**Security & API Design**
+- JWT-based authentication
+- Role-based access control (RBAC)
+- API rate limiting & abuse protection
 
----
-
-### 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prrrranv)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prrrranv)
-[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:d.officialpranav@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]((https://x.com/Prrrranvs))
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/prranavs)
+**Cloud & DevOps**
+- Docker, Docker Compose
+- AWS EC2 (project deployments)
+- Kubernetes (local development exposure)
 
 ---
 
-📍 Based in **Bangalore, Karnataka (Currently)** | Originally from **Lucknow, India** 🇮🇳
+## 🚀 Featured Projects
+
+### 🔹 Event-Driven Resume ATS Analysis Platform
+**Go · Kafka · gRPC · Redis · PostgreSQL · Docker**
+
+- Designed an event-driven backend where resume analysis jobs are processed asynchronously using Kafka.
+- Built concurrent Go worker services using goroutines and gRPC for efficient job execution.
+- Integrated AI APIs for ATS scoring with Redis-backed caching to reduce repeated computations.
+- Focused on service boundaries, fault isolation, and scalability-oriented design.
+
+---
+
+### 🔹 Gold — Secure Auth & Rate-Limited API Service
+**Go · Redis · PostgreSQL · Docker · AWS EC2**
+
+- Implemented a JWT-based authentication service with role-based access control.
+- Built Redis-backed API rate limiting using a sliding-window strategy.
+- Designed the service to be stateless, enabling horizontal scalability.
+- Deployed the service on a single AWS EC2 instance using Docker for simplicity and cost efficiency.
+
+---
+
+## 📚 Currently Learning
+- Deepening understanding of **system design and concurrency**
+- Improving **code quality and review practices**
+- Exploring **enterprise backend patterns** and large codebases
+
+---
+
+## 🎯 What I’m Looking For
+- Backend / Software Engineering roles (Intern / New Grad)
+- Teams that value **ownership, reliability, and learning**
+- Opportunities to work on systems that matter at scale
+
+---
+
+## 📫 Get in Touch
+- GitHub: https://github.com/prrrranv
+- LinkedIn: https://linkedin.com/in/prrrranv
+- Email: d.officialpranav@gmail.com
+
+---
+
+> I believe strong fundamentals, curiosity, and ownership matter more than any single framework.
