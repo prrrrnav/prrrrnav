@@ -27,13 +27,13 @@ Backend-focused developer who enjoys building <b>reliable systems</b>, working c
 ###
 
 <div align="center">
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/prrrrnav">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/prrrranv">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:d.officialpranav@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
