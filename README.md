@@ -1,87 +1,37 @@
-# Hi, I’m Pranav 👋
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Backend-focused software developer with a strong interest in building **reliable, scalable, and well-structured backend systems**. I enjoy working close to system fundamentals—APIs, databases, asynchronous processing, and service reliability—rather than just surface-level features.
+###
 
-I’m currently pursuing a **Master of Computer Applications (MCA)** and actively preparing for **backend / software engineering roles** where I can grow by working on real-world systems.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
----
+###
 
-## 🧠 What I Care About
-- Designing **correct and maintainable backend services**
-- Understanding **how systems behave under load and failure**
-- Writing code that is easy to reason about and operate
-- Learning new stacks by mapping them to core engineering fundamentals
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
-
-## 🔧 Tech I Work With
-
-**Languages**
-- Go, JavaScript, Java
-
-**Backend & Distributed Systems**
-- REST APIs, gRPC
-- Event-driven architectures (Kafka)
-- Asynchronous job processing
-- Service decomposition & fault isolation
-
-**Databases & Caching**
-- PostgreSQL (schema design, indexing, transactions)
-- Redis (rate limiting, caching, fast lookups)
-
-**Security & API Design**
-- JWT-based authentication
-- Role-based access control (RBAC)
-- API rate limiting & abuse protection
-
-**Cloud & DevOps**
-- Docker, Docker Compose
-- AWS EC2 (project deployments)
-- Kubernetes (local development exposure)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Event-Driven Resume ATS Analysis Platform
-**Go · Kafka · gRPC · Redis · PostgreSQL · Docker**
-
-- Designed an event-driven backend where resume analysis jobs are processed asynchronously using Kafka.
-- Built concurrent Go worker services using goroutines and gRPC for efficient job execution.
-- Integrated AI APIs for ATS scoring with Redis-backed caching to reduce repeated computations.
-- Focused on service boundaries, fault isolation, and scalability-oriented design.
-
----
-
-### 🔹 Gold — Secure Auth & Rate-Limited API Service
-**Go · Redis · PostgreSQL · Docker · AWS EC2**
-
-- Implemented a JWT-based authentication service with role-based access control.
-- Built Redis-backed API rate limiting using a sliding-window strategy.
-- Designed the service to be stateless, enabling horizontal scalability.
-- Deployed the service on a single AWS EC2 instance using Docker for simplicity and cost efficiency.
-
----
-
-## 📚 Currently Learning
-- Deepening understanding of **system design and concurrency**
-- Improving **code quality and review practices**
-- Exploring **enterprise backend patterns** and large codebases
-
----
-
-## 🎯 What I’m Looking For
-- Backend / Software Engineering roles (Intern / New Grad)
-- Teams that value **ownership, reliability, and learning**
-- Opportunities to work on systems that matter at scale
-
----
-
-## 📫 Get in Touch
-- GitHub: https://github.com/prrrranv
-- LinkedIn: https://linkedin.com/in/prrrranv
-- Email: d.officialpranav@gmail.com
-
----
-
-> I believe strong fundamentals, curiosity, and ownership matter more than any single framework.
+###
