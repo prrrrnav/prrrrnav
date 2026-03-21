@@ -26,6 +26,31 @@ I'm currently based in Bengaluru.
 2. **Understand the system**: Before writing a line of code, I want to understand *why* something needs to exist and how the pieces fit together. I'll often ask "why are we doing it this way?" — not to be difficult, but because the answer usually changes the solution.
 3. **Own the outcome**: Whether it's a freelance client or a team project, I take full accountability for what I ship. If something breaks in production, I want to be the one debugging it at 2am.
 
+### 🐍 The Contribution Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+---
+<p align="center">
+  🔊 <b>Don’t just read my profile… listen to it</b>
+</p>
+
+<p align="center">
+  <audio controls>
+    <source src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3" type="audio/mpeg">
+  </audio>
+</p>
+
+<p align="center">
+  🔗 <a href="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3">Click here if audio doesn’t play</a>
+</p>
+---
+---
+
 ## How I Work
 
 - **Communication**: I prefer async written communication for most things — I think more clearly in writing. For complex technical discussions, a short video call is way more efficient than a long Slack thread.
