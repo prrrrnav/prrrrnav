@@ -33,23 +33,7 @@ I'm currently based in Bengaluru.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
 </picture>
 
----
----
-<p align="center">
-  🔊 <b>Don’t just read my profile… listen to it</b>
-</p>
 
-<p align="center">
-  <audio controls>
-    <source src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3" type="audio/mpeg">
-  </audio>
-</p>
-
-<p align="center">
-  🔗 <a href="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3">Click here if audio doesn’t play</a>
-</p>
----
----
 
 ## How I Work
 
