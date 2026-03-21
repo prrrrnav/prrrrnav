@@ -12,6 +12,13 @@ I'm a Software Engineer graduating with an MCA from Presidency University, Benga
 
 I'm currently based in Bengaluru.
 
+### 🐍 The Contribution Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Me in a few words
 
 - Born and raised in Lucknow, completed my BCA at Integral University before moving to Bengaluru for my MCA.
@@ -25,15 +32,6 @@ I'm currently based in Bengaluru.
 1. **Ship and iterate**: I'd rather put something real in front of users and improve it than spend weeks perfecting it in isolation. The feedback loop from production is irreplaceable.
 2. **Understand the system**: Before writing a line of code, I want to understand *why* something needs to exist and how the pieces fit together. I'll often ask "why are we doing it this way?" — not to be difficult, but because the answer usually changes the solution.
 3. **Own the outcome**: Whether it's a freelance client or a team project, I take full accountability for what I ship. If something breaks in production, I want to be the one debugging it at 2am.
-
-### 🐍 The Contribution Journey
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 
 ## How I Work
 
