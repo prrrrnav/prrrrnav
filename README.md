@@ -1,4 +1,4 @@
-# Hi, I'm Pranav Tiwari
+# Heyyy, I'm Pranav Tiwari
 
 ## Why read me?
 
