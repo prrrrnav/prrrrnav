@@ -17,19 +17,19 @@
 <!-- 📊 PROFILE BADGES                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/prrrrnav">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=764ba2&style=flat-square" alt="Profile Views"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<a href="https://github.com/prrrrnav?tab=repositories">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+<a href="https://github.com/prrrrnav?tab=followers">
   <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/prrrrnav">
   <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
 </a>
 
@@ -166,13 +166,13 @@ life_philosophy: "Optimize for scale, ship for production."
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/prrrrnav">
   <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/prrrrnav">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages"/>
 </a>
 
@@ -264,7 +264,7 @@ life_philosophy: "Optimize for scale, ship for production."
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/prrrrnav" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
 </a>
 &nbsp;
