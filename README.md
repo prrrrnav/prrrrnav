@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Pranav%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Go%20%26%20Node.js&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Pranav%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Java%20%26%20Node.js&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Distributed+Systems;Go+%E2%80%A2+Node.js+%E2%80%A2+Python;Building+scalable%2C+production-ready+systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Distributed+Systems;Java+%E2%80%A2+Node.js+%E2%80%A2+Python;Building+scalable%2C+production-ready+systems" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -61,8 +61,8 @@ current_status: MCA @ Presidency University (Grad. Jul 2026)
 
 areas_of_expertise:
   - ⚙️  Backend & Distributed Systems
-  - 🐹 Go (Golang) Development
   - 🟢 Node.js / MERN Stack
+  - 🐹 Java
   - 🧩 System Design & DSA
   - ☁️  Cloud Deployment (AWS, Docker)
 
@@ -80,7 +80,7 @@ life_philosophy: "Optimize for scale, ship for production."
 ### 🚀 Current Focus
 
 - ⚙️ **Designing** scalable backend systems
-- 🐹 **Engineering** in Go & Node.js
+- 🐹 **Engineering** in Node.js & Java 
 - 🧩 **Studying** system design & distributed systems
 - ☁️ **Deploying** containerized services on AWS
 - 📈 **Optimizing** latency & throughput
@@ -111,12 +111,12 @@ life_philosophy: "Optimize for scale, ship for production."
 
 ## 💼 Experience
 
-**🌫️ IoT Air Quality Monitoring System** — *Internship · Jan 2024 – Jun 2025*
+**🌫️ IoT Air Quality Monitoring System** — *Freelancer · Jan 2024 – Jun 2025*
 - Designed an event-driven sensor ingestion pipeline processing real-time device data, **reducing database writes by 92%** under high-frequency inputs.
 - Built fault-tolerant backend systems with idempotent processing and reliable data handling in distributed environments.
 - Collaborated across hardware, firmware, and backend teams to deliver an end-to-end scalable IIoT solution.
 
-**🏍️ Dr-LaBike** — *Freelance Client · Aug 2024 – Dec 2024*
+**🏍️ Dr-LaBike** — *Freelancer · Aug 2024 – Dec 2024*
 - Developed and deployed a scalable backend serving **1000+ monthly bookings and 200+ users** for rural healthcare services.
 - Designed optimized database schemas and queries, reducing response time and improving data retrieval performance.
 - Implemented secure authentication and middleware to reliably handle concurrent requests.
