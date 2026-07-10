@@ -1,49 +1,31 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 ANIMATED HEADER                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+---
+
+# 🚀 **PRANAV TIWARI**
+### Backend Engineer • Full-Stack Developer • Python • FastAPI • MERN
+
+> **Building scalable, production-ready systems that power real business impact.**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Pranav%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20•%20Full-Stack%20Developer%20•%20Python%20%26%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Full-Stack+Development;Python+%E2%80%A2+FastAPI+%E2%80%A2+Express.js+%E2%80%A2+MERN;Building+scalable%2C+production-ready+systems" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 PROFILE BADGES                                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/prrrrnav">
-  <img src="https://komarev.com/ghpvc/?username=prrrrnav&label=Profile%20Views&color=764ba2&style=flat-square" alt="Profile Views"/>
-</a>
-&nbsp;
-<a href="https://github.com/prrrrnav?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprrrrnav&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
-</a>
-&nbsp;
-<a href="https://github.com/prrrrnav?tab=followers">
-  <img src="https://img.shields.io/github/followers/prrrrnav?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/prrrrnav">
-  <img src="https://img.shields.io/github/stars/prrrrnav?affiliations=OWNER&label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
-</a>
+**Software Engineer** | **Backend Specialist** | **Full-Stack Developer**  
+Based in **Bengaluru, India** 🇮🇳
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## 📊 Quick Stats
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 👤 ABOUT ME SECTION                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+![GitHub Views](https://komarev.com/ghpvc/?username=prrrrnav&label=Profile%20Views&color=764ba2&style=flat-square)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprrrrnav&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26)
+![Followers](https://img.shields.io/github/followers/prrrrnav?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26)
+![Stars](https://img.shields.io/github/stars/prrrrnav?affiliations=OWNER&label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26)
+
+</div>
+
+---
 
 ## 👤 About Me
 
@@ -379,6 +361,14 @@ Driven by the philosophy **"optimize for scale, ship for production"** — I foc
 
 <br/>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
+
+### 💪 Let's Build Something Awesome Together!
+
+**Feel free to reach out or check out my work on [GitHub](https://github.com/prrrrnav)**
+
 </div>
+
+---
