@@ -35,29 +35,27 @@ Based in **Bengaluru, India** 🇮🇳
 
 ### 🎯 What I Do
 
-```yaml
-name: Pranav Tiwari
-located_in: Bengaluru, India 🇮🇳
-role: Software Engineer (Backend & Full-Stack)
-current_status: MCA @ Presidency University (Grad. Jul 2026)
+**Name:** Pranav Tiwari  
+**Location:** Bengaluru, India 🇮🇳  
+**Role:** Software Engineer (Backend & Full-Stack)  
+**Status:** MCA @ Presidency University (Grad. Jul 2026)
 
-expertise:
-  - 🐍 Python – FastAPI, Async Systems, AI Integration
-  - 🟢 Node.js – Express.js, REST APIs, Real-time Systems
-  - ⚛️  MERN Stack – React, MongoDB, Express, Node.js
-  - ⚙️  Backend & Distributed Systems
-  - 🧩 System Design & Data Structures/Algorithms
-  - ☁️  Cloud – AWS EC2, Docker, CI/CD, Horizontal Scaling
+**Core Expertise:**
+- 🐍 **Python** – FastAPI, Async Systems, AI Integration
+- 🟢 **Node.js** – Express.js, REST APIs, Real-time Systems
+- ⚛️ **MERN Stack** – React, MongoDB, Express, Node.js
+- ⚙️ **Backend & Distributed Systems**
+- 🧩 **System Design & Data Structures/Algorithms**
+- ☁️ **Cloud** – AWS EC2, Docker, CI/CD, Horizontal Scaling
 
-currently_shipping:
-  - High-performance FastAPI microservices
-  - Full-stack MERN applications with scalable backends
-  - Event-driven async processing pipelines
-  - AI-integrated backend systems with Python
-  - Real-time APIs with Express.js & WebSockets
+**Currently Shipping:**
+- High-performance FastAPI microservices
+- Full-stack MERN applications with scalable backends
+- Event-driven async processing pipelines
+- AI-integrated backend systems with Python
+- Real-time APIs with Express.js & WebSockets
 
-philosophy: "Optimize for scale, ship for production, code for reliability."
-```
+> **Philosophy:** "Optimize for scale, ship for production, code for reliability."
 
 </td>
 <td width="45%" valign="top">
