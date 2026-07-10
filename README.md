@@ -1,9 +1,9 @@
 ---
 
-# 🚀 **PRANAV TIWARI**
+# **PRANAV TIWARI**
 ### Backend Engineer • Full-Stack Developer • Python • FastAPI • MERN
 
-> **Building scalable, production-ready systems that power real business impact.**
+**Building scalable, production-ready systems that power real business impact.**
 
 <div align="center">
 
