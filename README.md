@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Pranav%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Java%20%26%20Node.js&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Pranav%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Node.js%20%26%20Go&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Distributed+Systems;Java+%E2%80%A2+Node.js+%E2%80%A2+Python;Building+scalable%2C+production-ready+systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Distributed+Systems;Go+%E2%80%A2+Node.js+%E2%80%A2+Python;Building+scalable%2C+production-ready+systems" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -27,10 +27,6 @@
 &nbsp;
 <a href="https://github.com/prrrrnav?tab=followers">
   <img src="https://img.shields.io/github/followers/prrrrnav?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/prrrrnav">
-  <img src="https://img.shields.io/github/stars/prrrrnav?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
 </a>
 
 </div>
@@ -61,8 +57,9 @@ current_status: MCA @ Presidency University (Grad. Jul 2026)
 
 areas_of_expertise:
   - ⚙️  Backend & Distributed Systems
+  - 🐹 Go / Stateless Microservices
   - 🟢 Node.js / MERN Stack
-  - 🐹 Java
+  - ☕ Java
   - 🧩 System Design & DSA
   - ☁️  Cloud Deployment (AWS, Docker)
 
@@ -80,7 +77,7 @@ life_philosophy: "Optimize for scale, ship for production."
 ### 🚀 Current Focus
 
 - ⚙️ **Designing** scalable backend systems
-- 🐹 **Engineering** in Node.js & Java 
+- 🐹 **Engineering** in Go, Node.js & Java
 - 🧩 **Studying** system design & distributed systems
 - ☁️ **Deploying** containerized services on AWS
 - 📈 **Optimizing** latency & throughput
@@ -93,6 +90,7 @@ life_philosophy: "Optimize for scale, ship for production."
 - 🎓 MCA candidate, graduating July 2026
 - 🔥 Backend & performance optimization focus
 - 🏆 Top 20 / 500+ teams — NIDAR Drone Challenge
+- 💰 Secured ₹4.5L in funding for autonomous drone system
 - ☕ Fueled by clean architecture & curiosity
 
 </td>
@@ -111,12 +109,14 @@ life_philosophy: "Optimize for scale, ship for production."
 
 ## 💼 Experience
 
-**🌫️ IoT Air Quality Monitoring System** — *Freelancer · Jan 2024 – Jun 2025*
+**Accuster Technologies Pvt Ltd.** — *Remote Software Developer (Freelancer) · Jan 2024 – Jun 2025*
+
+**🌫️ IoT Air Quality Monitoring System**
 - Designed an event-driven sensor ingestion pipeline processing real-time device data, **reducing database writes by 92%** under high-frequency inputs.
 - Built fault-tolerant backend systems with idempotent processing and reliable data handling in distributed environments.
 - Collaborated across hardware, firmware, and backend teams to deliver an end-to-end scalable IIoT solution.
 
-**🏍️ Dr-LaBike** — *Freelancer · Aug 2024 – Dec 2024*
+**🏍️ Dr-LaBike** — *Aug 2024 – Dec 2024*
 - Developed and deployed a scalable backend serving **1000+ monthly bookings and 200+ users** for rural healthcare services.
 - Designed optimized database schemas and queries, reducing response time and improving data retrieval performance.
 - Implemented secure authentication and middleware to reliably handle concurrent requests.
@@ -133,20 +133,20 @@ life_philosophy: "Optimize for scale, ship for production."
 
 ## 🛠️ Featured Projects
 
-**🔐 Stateless Auth & Rate-Limited API Service** &nbsp;`Go` `Redis` `PostgreSQL` `Docker` `AWS EC2` `JWT`
+**🔐 Stateless Auth & Rate-Limited API Service** &nbsp;`Go` `Redis` `PostgreSQL` `Docker` `AWS EC2` `JWT` &nbsp;·&nbsp;*Oct 2025 – Feb 2026*
 - Built a stateless distributed API gateway with JWT auth and Redis-based rate limiting, **improving throughput by ~20%** and cutting latency by ~15–20ms under concurrent load.
 - Architected horizontally scalable microservices by decoupling session and persistent storage with Redis + PostgreSQL.
 - Deployed containerized services on AWS EC2 with CI/CD pipelines for consistent production environments.
 
-**📄 Applicant Tracking System (ATS) Platform** &nbsp;`Node.js` `OpenAI API` `MongoDB` `Docker` `JWT` `MERN`
-- Built a scalable backend for resume analysis with REST APIs and MongoDB, supporting concurrent users and async processing.
-- Integrated external AI services to evaluate user inputs and power automated decision-making workflows.
-- Designed the architecture to handle duplicate requests and ensure consistency in distributed processing.
-
-**🚁 NIDAR Drone Navigation** &nbsp;`Python` `OpenCV` `Docker` `GPS`
+**🚁 NIDAR Drone Navigation** &nbsp;`Python` `OpenCV` `Docker` `GPS` &nbsp;·&nbsp;*Aug 2025 – Jan 2026*
 - Designed a real-time navigation pipeline integrating GPS and computer vision for autonomous mission execution under strict time constraints.
 - Led a cross-functional team of 4 engineers, delivering a working system and **securing ₹4.5L in funding**.
 - Achieved **Top 20 among 500+ teams**, demonstrating strong problem-solving and system integration.
+
+**📄 Applicant Tracking System (ATS) Platform** &nbsp;`Node.js` `OpenAI API` `MongoDB` `Docker` `JWT` `MERN` &nbsp;·&nbsp;*Jun 2025 – Sep 2025*
+- Built a scalable backend for resume analysis with REST APIs and MongoDB, supporting concurrent users and async processing.
+- Integrated external AI services to evaluate user inputs and power automated decision-making workflows.
+- Designed the architecture to handle duplicate requests and ensure consistency in distributed processing.
 
 <br/>
 
@@ -167,7 +167,7 @@ life_philosophy: "Optimize for scale, ship for production."
 </a>
 &nbsp;
 <a href="https://github.com/prrrrnav">
-  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=prrrrnav&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
+  <img height="195em" src="https://streak-stats.demolab.com/?user=prrrrnav&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
@@ -175,10 +175,6 @@ life_philosophy: "Optimize for scale, ship for production."
 <a href="https://github.com/prrrrnav">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prrrrnav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages"/>
 </a>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prrrrnav&theme=tokyonight" width="95%" alt="Profile Details"/>
 
 </div>
 
@@ -246,9 +242,9 @@ life_philosophy: "Optimize for scale, ship for production."
 ## 🎓 Education & Certifications
 
 - 🎓 **Master of Computer Applications (MCA)** — Presidency University, Bengaluru · *Graduating Jul 2026*
-- 🎓 **Bachelor of Computer Applications (BCA)** — Integral University, Lucknow · *2024*
-- 📜 **AI for Engineers** — IIT Kanpur
-- 📜 **NIDAR Drone Federation** — Autonomous Systems & IIoT Hardware-Software Integration
+- 🎓 **Bachelor of Computer Applications (BCA)** — Integral University, Lucknow · *Oct 2024*
+- 📜 **AI for Engineers** — IIT Kanpur (Cert: 2061206647820)
+- 📜 **PR1 & PR2 Mission** — Drone Federation India & MeitY
 
 <br/>
 
@@ -268,12 +264,8 @@ life_philosophy: "Optimize for scale, ship for production."
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+<a href="https://www.linkedin.com/in/prrrranv" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/YOUR_LEETCODE_HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1b26" alt="LeetCode"/>
 </a>
 &nbsp;
 <a href="mailto:d.officialpranav@gmail.com">
