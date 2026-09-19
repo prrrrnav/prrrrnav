@@ -92,30 +92,6 @@ Based in **Bengaluru, India** 🇮🇳
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  EXPERIENCE                                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-##  Experience
-
-**Client Projects** — *Remote Software Developer (Freelancer) · Jan 2024 – Jun 2025*
-
-** IoT Air Quality Monitoring System**
-- Designed an event-driven sensor ingestion pipeline processing real-time device data, **reducing database writes by 92%** under high-frequency inputs.
-- Built fault-tolerant backend systems with idempotent processing and reliable data handling in distributed environments.
-- Collaborated across hardware, firmware, and backend teams to deliver an end-to-end scalable IIoT solution.
-
-** Dr-LaBike** — *Aug 2024 – Dec 2024*
-- Developed and deployed a scalable backend serving **1000+ monthly bookings and 200+ users** for rural healthcare services.
-- Designed optimized database schemas and queries, reducing response time and improving data retrieval performance.
-- Implemented secure authentication and middleware to reliably handle concurrent requests.
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--  FEATURED PROJECTS                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
